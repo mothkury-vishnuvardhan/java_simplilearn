@@ -21,12 +21,8 @@ public class String1 {
 		String s4="";
 		System.out.println(s4.isEmpty());
 
-		//toLowerCase
-		String s5="Hello";
 		System.out.println(s1.toLowerCase());
 		
-		//replace
-		String s6="Hello";
 		String replace=s2.replace('d', 'l');
 		System.out.println(replace);
 

@@ -8,7 +8,7 @@ List<String> emails = new ArrayList<String>();
 // for valid email addresses are  emails.add("vishnu@.com")
 //  for invalid email addresses are  emails.add("vardhan.example.com"),
 
-		for (String value : emails)
+	for (String value : emails)
 {
 		System.out.println("The Email address " + value + " is " + (isValidEmail(value) ? "valid" : "invalid"));
 }

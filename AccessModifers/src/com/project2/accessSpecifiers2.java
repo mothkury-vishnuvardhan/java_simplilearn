@@ -1,10 +1,6 @@
 package com.project2;
 	class privateaccessspecifier 
 	{ 
-	   private void display() 
-	    { 
-	        System.out.println("You are using private access specifier"); 
-	    } 
 	} 
 
 	public class accessSpecifiers2 {
