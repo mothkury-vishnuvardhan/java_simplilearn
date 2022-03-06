@@ -9,7 +9,7 @@ public class FileHandling {
 FileWriter f = new FileWriter("C:\\Users\\Vishnu Vardhan\\OneDrive\\Desktop\\project.txt");
  try
  {
- f.write("Sumit is the employee of Mphasis limited..!!");
+ f.write("vishnu is the employee of xyz limited..!!");
  }
  finally
  {

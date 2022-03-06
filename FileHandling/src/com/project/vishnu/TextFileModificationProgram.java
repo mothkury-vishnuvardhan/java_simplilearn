@@ -4,7 +4,7 @@ package com.project.vishnu;
 	import java.io.FileReader;
 	import java.io.FileWriter;
 	import java.io.IOException;
-	 
+
 	public class TextFileModificationProgram
 	{   public static void main1(String[] args) {
 		
